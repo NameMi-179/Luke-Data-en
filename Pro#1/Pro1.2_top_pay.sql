@@ -23,7 +23,7 @@ HAVING
     COUNT(jf.*) > 1000
 ORDER BY 
     median_salary DESC
-LIMIT 25;
+LIMIT 30;
 
 /*
 ┌────────────┬───────────────┬──────────────┐
